@@ -88,7 +88,7 @@ dependencies {
 ```
 // OK
 dependencies {
-    // Testing backwards comparability of feature XYZ
+    // Testing backwards compatibility of feature XYZ
     classpath "com.android.tools.build:gradle:7.5.2"
 }
 ```
